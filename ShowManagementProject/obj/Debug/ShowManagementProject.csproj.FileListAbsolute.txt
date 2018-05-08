@@ -1,0 +1,152 @@
+C:\Users\Nur\Desktop\ShowManagementProject\ShowManagementProject\bin\Debug\ShowManagementProject.exe.config
+C:\Users\Nur\Desktop\ShowManagementProject\ShowManagementProject\bin\Debug\ShowManagementProject.exe
+C:\Users\Nur\Desktop\ShowManagementProject\ShowManagementProject\bin\Debug\ShowManagementProject.pdb
+C:\Users\Nur\Desktop\ShowManagementProject\ShowManagementProject\obj\Debug\ShowManagementProject.Form1.resources
+C:\Users\Nur\Desktop\ShowManagementProject\ShowManagementProject\obj\Debug\ShowManagementProject.Properties.Resources.resources
+C:\Users\Nur\Desktop\ShowManagementProject\ShowManagementProject\obj\Debug\ShowManagementProject.csproj.GenerateResource.Cache
+C:\Users\Nur\Desktop\ShowManagementProject\ShowManagementProject\obj\Debug\ShowManagementProject.exe
+C:\Users\Nur\Desktop\ShowManagementProject\ShowManagementProject\obj\Debug\ShowManagementProject.pdb
+C:\Users\Nur\Desktop\ShowManagementProject\ShowManagementProject\obj\Debug\ShowManagementProject.Main.resources
+C:\Users\Nur\Desktop\ShowManagementProject\ShowManagementProject\obj\Debug\ShowManagementProject.csprojResolveAssemblyReference.cache
+C:\Users\Nur\Desktop\ShowManagementProject\ShowManagementProject\bin\Debug\shop.mdf
+C:\Users\Nur\Desktop\ShowManagementProject\ShowManagementProject\bin\Debug\shop_log.ldf
+F:\Copy of ShowManagementProject\ShowManagementProject\bin\Debug\ShowManagementProject.exe.config
+F:\Copy of ShowManagementProject\ShowManagementProject\obj\Debug\ShowManagementProject.exe
+F:\Copy of ShowManagementProject\ShowManagementProject\obj\Debug\ShowManagementProject.pdb
+C:\Users\Nur\Desktop\Copy of ShowManagementProject\ShowManagementProject\bin\Debug\ShowManagementProject.exe.config
+C:\Users\Nur\Desktop\Copy of ShowManagementProject\ShowManagementProject\bin\Debug\ShowManagementProject.exe
+C:\Users\Nur\Desktop\Copy of ShowManagementProject\ShowManagementProject\bin\Debug\ShowManagementProject.pdb
+C:\Users\Nur\Desktop\Copy of ShowManagementProject\ShowManagementProject\obj\Debug\ShowManagementProject.Body.resources
+C:\Users\Nur\Desktop\Copy of ShowManagementProject\ShowManagementProject\obj\Debug\ShowManagementProject.login.resources
+C:\Users\Nur\Desktop\Copy of ShowManagementProject\ShowManagementProject\obj\Debug\ShowManagementProject.Main.resources
+C:\Users\Nur\Desktop\Copy of ShowManagementProject\ShowManagementProject\obj\Debug\ShowManagementProject.Properties.Resources.resources
+C:\Users\Nur\Desktop\Copy of ShowManagementProject\ShowManagementProject\obj\Debug\ShowManagementProject.SearchAndView.resources
+C:\Users\Nur\Desktop\Copy of ShowManagementProject\ShowManagementProject\obj\Debug\ShowManagementProject.SetupCategory.resources
+C:\Users\Nur\Desktop\Copy of ShowManagementProject\ShowManagementProject\obj\Debug\ShowManagementProject.SetupCompany.resources
+C:\Users\Nur\Desktop\Copy of ShowManagementProject\ShowManagementProject\obj\Debug\ShowManagementProject.SetupItem.resources
+C:\Users\Nur\Desktop\Copy of ShowManagementProject\ShowManagementProject\obj\Debug\ShowManagementProject.StokIn.resources
+C:\Users\Nur\Desktop\Copy of ShowManagementProject\ShowManagementProject\obj\Debug\ShowManagementProject.StokOut.resources
+C:\Users\Nur\Desktop\Copy of ShowManagementProject\ShowManagementProject\obj\Debug\ShowManagementProject.csproj.GenerateResource.Cache
+C:\Users\Nur\Desktop\Copy of ShowManagementProject\ShowManagementProject\obj\Debug\ShowManagementProject.exe
+C:\Users\Nur\Desktop\Copy of ShowManagementProject\ShowManagementProject\obj\Debug\ShowManagementProject.pdb
+C:\Users\Nur\Desktop\Copy of ShowManagementProject\ShowManagementProject\obj\Debug\ShowManagementProject.SetupItemWf.resources
+C:\Users\Nur\Desktop\Copy of ShowManagementProject\ShowManagementProject\obj\Debug\ShowManagementProject.StockInWf.resources
+C:\Users\Nur\Desktop\New folder\Copy of ShowManagementProject\ShowManagementProject\bin\Debug\ShowManagementProject.exe.config
+C:\Users\Nur\Desktop\New folder\Copy of ShowManagementProject\ShowManagementProject\obj\Debug\ShowManagementProject.exe
+C:\Users\Nur\Desktop\New folder\Copy of ShowManagementProject\ShowManagementProject\obj\Debug\ShowManagementProject.pdb
+C:\Users\Nur\Desktop\New folder\Copy of ShowManagementProject\ShowManagementProject\bin\Debug\ShowManagementProject.exe
+C:\Users\Nur\Desktop\New folder\Copy of ShowManagementProject\ShowManagementProject\bin\Debug\ShowManagementProject.pdb
+C:\Users\Nur\Desktop\New folder\Copy of ShowManagementProject\ShowManagementProject\obj\Debug\ShowManagementProject.Body.resources
+C:\Users\Nur\Desktop\New folder\Copy of ShowManagementProject\ShowManagementProject\obj\Debug\ShowManagementProject.login.resources
+C:\Users\Nur\Desktop\New folder\Copy of ShowManagementProject\ShowManagementProject\obj\Debug\ShowManagementProject.Main.resources
+C:\Users\Nur\Desktop\New folder\Copy of ShowManagementProject\ShowManagementProject\obj\Debug\ShowManagementProject.Properties.Resources.resources
+C:\Users\Nur\Desktop\New folder\Copy of ShowManagementProject\ShowManagementProject\obj\Debug\ShowManagementProject.SearchAndView.resources
+C:\Users\Nur\Desktop\New folder\Copy of ShowManagementProject\ShowManagementProject\obj\Debug\ShowManagementProject.SetupCategory.resources
+C:\Users\Nur\Desktop\New folder\Copy of ShowManagementProject\ShowManagementProject\obj\Debug\ShowManagementProject.SetupCompany.resources
+C:\Users\Nur\Desktop\New folder\Copy of ShowManagementProject\ShowManagementProject\obj\Debug\ShowManagementProject.SetupItem.resources
+C:\Users\Nur\Desktop\New folder\Copy of ShowManagementProject\ShowManagementProject\obj\Debug\ShowManagementProject.SetupItemWf.resources
+C:\Users\Nur\Desktop\New folder\Copy of ShowManagementProject\ShowManagementProject\obj\Debug\ShowManagementProject.StockInWf.resources
+C:\Users\Nur\Desktop\New folder\Copy of ShowManagementProject\ShowManagementProject\obj\Debug\ShowManagementProject.StokIn.resources
+C:\Users\Nur\Desktop\New folder\Copy of ShowManagementProject\ShowManagementProject\obj\Debug\ShowManagementProject.StokOut.resources
+C:\Users\Nur\Desktop\New folder\Copy of ShowManagementProject\ShowManagementProject\obj\Debug\ShowManagementProject.csproj.GenerateResource.Cache
+C:\Users\Nur\Desktop\New folder\Copy of ShowManagementProject\ShowManagementProject\obj\Debug\ShowManagementProject.StockOutwf.resources
+C:\Users\Nur\Desktop\New folder\Copy of ShowManagementProject\ShowManagementProject\obj\Debug\ShowManagementProject.SearchAndViewWf.resources
+C:\Users\Nur\Desktop\New folder\Copy of ShowManagementProject\ShowManagementProject\obj\Debug\ShowManagementProject.Report.resources
+C:\Users\Nur\Desktop\shopManagementSystem(ok)\ShowManagementProject\bin\Debug\ShowManagementProject.exe.config
+C:\Users\Nur\Desktop\shopManagementSystem(ok)\ShowManagementProject\obj\Debug\ShowManagementProject.exe
+C:\Users\Nur\Desktop\shopManagementSystem(ok)\ShowManagementProject\obj\Debug\ShowManagementProject.pdb
+C:\Users\Nur\Desktop\shopManagementSystem(ok)\ShowManagementProject\bin\Debug\ShowManagementProject.exe
+C:\Users\Nur\Desktop\shopManagementSystem(ok)\ShowManagementProject\bin\Debug\ShowManagementProject.pdb
+C:\Users\Nur\Desktop\shopManagementSystem(ok)\ShowManagementProject\obj\Debug\ShowManagementProject.csprojResolveAssemblyReference.cache
+C:\Users\Nur\Desktop\shopManagementSystem(ok)\ShowManagementProject\obj\Debug\ShowManagementProject.Body.resources
+C:\Users\Nur\Desktop\shopManagementSystem(ok)\ShowManagementProject\obj\Debug\ShowManagementProject.login.resources
+C:\Users\Nur\Desktop\shopManagementSystem(ok)\ShowManagementProject\obj\Debug\ShowManagementProject.Main.resources
+C:\Users\Nur\Desktop\shopManagementSystem(ok)\ShowManagementProject\obj\Debug\ShowManagementProject.Properties.Resources.resources
+C:\Users\Nur\Desktop\shopManagementSystem(ok)\ShowManagementProject\obj\Debug\ShowManagementProject.Report.resources
+C:\Users\Nur\Desktop\shopManagementSystem(ok)\ShowManagementProject\obj\Debug\ShowManagementProject.SearchAndView.resources
+C:\Users\Nur\Desktop\shopManagementSystem(ok)\ShowManagementProject\obj\Debug\ShowManagementProject.SearchAndViewWf.resources
+C:\Users\Nur\Desktop\shopManagementSystem(ok)\ShowManagementProject\obj\Debug\ShowManagementProject.SetupCategory.resources
+C:\Users\Nur\Desktop\shopManagementSystem(ok)\ShowManagementProject\obj\Debug\ShowManagementProject.SetupCompany.resources
+C:\Users\Nur\Desktop\shopManagementSystem(ok)\ShowManagementProject\obj\Debug\ShowManagementProject.SetupItem.resources
+C:\Users\Nur\Desktop\shopManagementSystem(ok)\ShowManagementProject\obj\Debug\ShowManagementProject.StockInWf.resources
+C:\Users\Nur\Desktop\shopManagementSystem(ok)\ShowManagementProject\obj\Debug\ShowManagementProject.StockOutwf.resources
+C:\Users\Nur\Desktop\shopManagementSystem(ok)\ShowManagementProject\obj\Debug\ShowManagementProject.StokIn.resources
+C:\Users\Nur\Desktop\shopManagementSystem(ok)\ShowManagementProject\obj\Debug\ShowManagementProject.StokOut.resources
+C:\Users\Nur\Desktop\shopManagementSystem(ok)\ShowManagementProject\obj\Debug\ShowManagementProject.csproj.GenerateResource.Cache
+C:\Users\Nur\Desktop\my project\shopManagementSystem(ok)\ShowManagementProject\bin\Debug\ShowManagementProject.exe.config
+C:\Users\Nur\Desktop\my project\shopManagementSystem(ok)\ShowManagementProject\obj\Debug\ShowManagementProject.exe
+C:\Users\Nur\Desktop\my project\shopManagementSystem(ok)\ShowManagementProject\obj\Debug\ShowManagementProject.pdb
+C:\Users\Nur\Desktop\my project\shopManagementSystem(ok)\ShowManagementProject\bin\Debug\ShowManagementProject.exe
+C:\Users\Nur\Desktop\my project\shopManagementSystem(ok)\ShowManagementProject\bin\Debug\ShowManagementProject.pdb
+C:\Users\Nur\Desktop\my project\shopManagementSystem(ok)\ShowManagementProject\obj\Debug\ShowManagementProject.Body.resources
+C:\Users\Nur\Desktop\my project\shopManagementSystem(ok)\ShowManagementProject\obj\Debug\ShowManagementProject.login.resources
+C:\Users\Nur\Desktop\my project\shopManagementSystem(ok)\ShowManagementProject\obj\Debug\ShowManagementProject.Main.resources
+C:\Users\Nur\Desktop\my project\shopManagementSystem(ok)\ShowManagementProject\obj\Debug\ShowManagementProject.Properties.Resources.resources
+C:\Users\Nur\Desktop\my project\shopManagementSystem(ok)\ShowManagementProject\obj\Debug\ShowManagementProject.Report.resources
+C:\Users\Nur\Desktop\my project\shopManagementSystem(ok)\ShowManagementProject\obj\Debug\ShowManagementProject.SearchAndView.resources
+C:\Users\Nur\Desktop\my project\shopManagementSystem(ok)\ShowManagementProject\obj\Debug\ShowManagementProject.SearchAndViewWf.resources
+C:\Users\Nur\Desktop\my project\shopManagementSystem(ok)\ShowManagementProject\obj\Debug\ShowManagementProject.SetupCategory.resources
+C:\Users\Nur\Desktop\my project\shopManagementSystem(ok)\ShowManagementProject\obj\Debug\ShowManagementProject.SetupCompany.resources
+C:\Users\Nur\Desktop\my project\shopManagementSystem(ok)\ShowManagementProject\obj\Debug\ShowManagementProject.SetupItem.resources
+C:\Users\Nur\Desktop\my project\shopManagementSystem(ok)\ShowManagementProject\obj\Debug\ShowManagementProject.SetupItemWf.resources
+C:\Users\Nur\Desktop\my project\shopManagementSystem(ok)\ShowManagementProject\obj\Debug\ShowManagementProject.StockInWf.resources
+C:\Users\Nur\Desktop\my project\shopManagementSystem(ok)\ShowManagementProject\obj\Debug\ShowManagementProject.StockOutwf.resources
+C:\Users\Nur\Desktop\my project\shopManagementSystem(ok)\ShowManagementProject\obj\Debug\ShowManagementProject.StokIn.resources
+C:\Users\Nur\Desktop\my project\shopManagementSystem(ok)\ShowManagementProject\obj\Debug\ShowManagementProject.StokOut.resources
+C:\Users\Nur\Desktop\my project\shopManagementSystem(ok)\ShowManagementProject\obj\Debug\ShowManagementProject.csproj.GenerateResource.Cache
+C:\Users\Nur\Desktop\my project\shopManagementSystem(ok)\ShowManagementProject\obj\Debug\ShowManagementProject.csprojResolveAssemblyReference.cache
+C:\Users\Nur\Desktop\shopManagementSystem(ok) - Copy\ShowManagementProject\bin\Debug\ShowManagementProject.exe.config
+C:\Users\Nur\Desktop\shopManagementSystem(ok) - Copy\ShowManagementProject\obj\Debug\ShowManagementProject.exe
+C:\Users\Nur\Desktop\shopManagementSystem(ok) - Copy\ShowManagementProject\obj\Debug\ShowManagementProject.pdb
+C:\Users\Nur\Desktop\shopManagementSystem(ok) - Copy\ShowManagementProject\obj\Debug\ShowManagementProject.csprojResolveAssemblyReference.cache
+C:\Users\Nur\Desktop\shopManagementSystem(ok) - Copy\ShowManagementProject\obj\Debug\ShowManagementProject.Body.resources
+C:\Users\Nur\Desktop\shopManagementSystem(ok) - Copy\ShowManagementProject\obj\Debug\ShowManagementProject.login.resources
+C:\Users\Nur\Desktop\shopManagementSystem(ok) - Copy\ShowManagementProject\obj\Debug\ShowManagementProject.Main.resources
+C:\Users\Nur\Desktop\shopManagementSystem(ok) - Copy\ShowManagementProject\obj\Debug\ShowManagementProject.Properties.Resources.resources
+C:\Users\Nur\Desktop\shopManagementSystem(ok) - Copy\ShowManagementProject\obj\Debug\ShowManagementProject.Report.resources
+C:\Users\Nur\Desktop\shopManagementSystem(ok) - Copy\ShowManagementProject\obj\Debug\ShowManagementProject.SearchAndView.resources
+C:\Users\Nur\Desktop\shopManagementSystem(ok) - Copy\ShowManagementProject\obj\Debug\ShowManagementProject.SearchAndViewWf.resources
+C:\Users\Nur\Desktop\shopManagementSystem(ok) - Copy\ShowManagementProject\obj\Debug\ShowManagementProject.SetupCategory.resources
+C:\Users\Nur\Desktop\shopManagementSystem(ok) - Copy\ShowManagementProject\obj\Debug\ShowManagementProject.SetupCompany.resources
+C:\Users\Nur\Desktop\shopManagementSystem(ok) - Copy\ShowManagementProject\obj\Debug\ShowManagementProject.SetupItem.resources
+C:\Users\Nur\Desktop\shopManagementSystem(ok) - Copy\ShowManagementProject\obj\Debug\ShowManagementProject.StockInWf.resources
+C:\Users\Nur\Desktop\shopManagementSystem(ok) - Copy\ShowManagementProject\obj\Debug\ShowManagementProject.StockOutwf.resources
+C:\Users\Nur\Desktop\shopManagementSystem(ok) - Copy\ShowManagementProject\obj\Debug\ShowManagementProject.StokIn.resources
+C:\Users\Nur\Desktop\shopManagementSystem(ok) - Copy\ShowManagementProject\obj\Debug\ShowManagementProject.StokOut.resources
+C:\Users\Nur\Desktop\shopManagementSystem(ok) - Copy\ShowManagementProject\obj\Debug\ShowManagementProject.csproj.GenerateResource.Cache
+C:\Users\Nur\Desktop\shopManagementSystem(ok) - Copy\ShowManagementProject\bin\Debug\ShowManagementProject.exe
+C:\Users\Nur\Desktop\shopManagementSystem(ok) - Copy\ShowManagementProject\bin\Debug\ShowManagementProject.pdb
+C:\Users\Nur\Desktop\shopManagementSystem\ShowManagementProject\bin\Debug\ShowManagementProject.exe.config
+C:\Users\Nur\Desktop\shopManagementSystem\ShowManagementProject\obj\Debug\ShowManagementProject.exe
+C:\Users\Nur\Desktop\shopManagementSystem\ShowManagementProject\obj\Debug\ShowManagementProject.pdb
+C:\Users\Nur\Desktop\shopManagementSystem\ShowManagementProject\bin\Debug\ShowManagementProject.exe
+C:\Users\Nur\Desktop\shopManagementSystem\ShowManagementProject\bin\Debug\ShowManagementProject.pdb
+C:\Users\Nur\Desktop\shopManagementSystem\ShowManagementProject\obj\Debug\ShowManagementProject.login.resources
+C:\Users\Nur\Desktop\shopManagementSystem\ShowManagementProject\obj\Debug\ShowManagementProject.Main.resources
+C:\Users\Nur\Desktop\shopManagementSystem\ShowManagementProject\obj\Debug\ShowManagementProject.Properties.Resources.resources
+C:\Users\Nur\Desktop\shopManagementSystem\ShowManagementProject\obj\Debug\ShowManagementProject.Report.resources
+C:\Users\Nur\Desktop\shopManagementSystem\ShowManagementProject\obj\Debug\ShowManagementProject.SearchAndViewWf.resources
+C:\Users\Nur\Desktop\shopManagementSystem\ShowManagementProject\obj\Debug\ShowManagementProject.StockOutwf.resources
+C:\Users\Nur\Desktop\shopManagementSystem\ShowManagementProject\obj\Debug\ShowManagementProject.csproj.GenerateResource.Cache
+C:\Users\Nur\Desktop\shopManagementSystem\ShowManagementProject\obj\Debug\ShowManagementProject.UI.SetupItemW.resources
+C:\Users\Nur\Desktop\shopManagementSystem\ShowManagementProject\obj\Debug\ShowManagementProject.UI.StockInW.resources
+C:\Users\Nur\Desktop\shopManagementSystem\ShowManagementProject\obj\Debug\ShowManagementProject.UI.SetupCategoryW.resources
+C:\Users\Nur\Desktop\shopManagementSystem\ShowManagementProject\obj\Debug\ShowManagementProject.UI.SetupCompanyW.resources
+C:\Users\Nur\Desktop\shopManagementSystem\ShowManagementProject\obj\Debug\ShowManagementProject.csprojResolveAssemblyReference.cache
+C:\Users\Rayet Rahman\Downloads\Compressed\Stock DEMo\shopManagementSystem (Final V2)\ShowManagementProject\bin\Debug\ShowManagementProject.exe.config
+C:\Users\Rayet Rahman\Downloads\Compressed\Stock DEMo\shopManagementSystem (Final V2)\ShowManagementProject\obj\Debug\ShowManagementProject.exe
+C:\Users\Rayet Rahman\Downloads\Compressed\Stock DEMo\shopManagementSystem (Final V2)\ShowManagementProject\obj\Debug\ShowManagementProject.pdb
+C:\Users\Rayet Rahman\Downloads\Compressed\Stock DEMo\shopManagementSystem (Final V2)\ShowManagementProject\bin\Debug\ShowManagementProject.exe
+C:\Users\Rayet Rahman\Downloads\Compressed\Stock DEMo\shopManagementSystem (Final V2)\ShowManagementProject\bin\Debug\ShowManagementProject.pdb
+C:\Users\Rayet Rahman\Downloads\Compressed\Stock DEMo\shopManagementSystem (Final V2)\ShowManagementProject\obj\Debug\ShowManagementProject.csprojResolveAssemblyReference.cache
+C:\Users\Rayet Rahman\Downloads\Compressed\Stock DEMo\shopManagementSystem (Final V2)\ShowManagementProject\obj\Debug\ShowManagementProject.login.resources
+C:\Users\Rayet Rahman\Downloads\Compressed\Stock DEMo\shopManagementSystem (Final V2)\ShowManagementProject\obj\Debug\ShowManagementProject.Main.resources
+C:\Users\Rayet Rahman\Downloads\Compressed\Stock DEMo\shopManagementSystem (Final V2)\ShowManagementProject\obj\Debug\ShowManagementProject.Properties.Resources.resources
+C:\Users\Rayet Rahman\Downloads\Compressed\Stock DEMo\shopManagementSystem (Final V2)\ShowManagementProject\obj\Debug\ShowManagementProject.Report.resources
+C:\Users\Rayet Rahman\Downloads\Compressed\Stock DEMo\shopManagementSystem (Final V2)\ShowManagementProject\obj\Debug\ShowManagementProject.SearchAndViewWf.resources
+C:\Users\Rayet Rahman\Downloads\Compressed\Stock DEMo\shopManagementSystem (Final V2)\ShowManagementProject\obj\Debug\ShowManagementProject.UI.SetupCategoryW.resources
+C:\Users\Rayet Rahman\Downloads\Compressed\Stock DEMo\shopManagementSystem (Final V2)\ShowManagementProject\obj\Debug\ShowManagementProject.UI.SetupCompanyW.resources
+C:\Users\Rayet Rahman\Downloads\Compressed\Stock DEMo\shopManagementSystem (Final V2)\ShowManagementProject\obj\Debug\ShowManagementProject.UI.SetupItemW.resources
+C:\Users\Rayet Rahman\Downloads\Compressed\Stock DEMo\shopManagementSystem (Final V2)\ShowManagementProject\obj\Debug\ShowManagementProject.UI.StockInW.resources
+C:\Users\Rayet Rahman\Downloads\Compressed\Stock DEMo\shopManagementSystem (Final V2)\ShowManagementProject\obj\Debug\ShowManagementProject.StockOutwf.resources
+C:\Users\Rayet Rahman\Downloads\Compressed\Stock DEMo\shopManagementSystem (Final V2)\ShowManagementProject\obj\Debug\ShowManagementProject.csproj.GenerateResource.Cache

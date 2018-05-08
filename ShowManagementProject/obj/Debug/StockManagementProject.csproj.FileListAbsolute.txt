@@ -1,0 +1,34 @@
+C:\Users\Rayet Rahman\Downloads\Compressed\Stock DEMo\shopManagementSystem (Final V2)\ShowManagementProject\bin\Debug\ShowManagementProject.exe.config
+C:\Users\Rayet Rahman\Downloads\Compressed\Stock DEMo\shopManagementSystem (Final V2)\ShowManagementProject\bin\Debug\ShowManagementProject.exe
+C:\Users\Rayet Rahman\Downloads\Compressed\Stock DEMo\shopManagementSystem (Final V2)\ShowManagementProject\bin\Debug\ShowManagementProject.pdb
+C:\Users\Rayet Rahman\Downloads\Compressed\Stock DEMo\shopManagementSystem (Final V2)\ShowManagementProject\obj\Debug\ShockManagementProject.login.resources
+C:\Users\Rayet Rahman\Downloads\Compressed\Stock DEMo\shopManagementSystem (Final V2)\ShowManagementProject\obj\Debug\ShockManagementProject.Main.resources
+C:\Users\Rayet Rahman\Downloads\Compressed\Stock DEMo\shopManagementSystem (Final V2)\ShowManagementProject\obj\Debug\ShowManagementProject.Properties.Resources.resources
+C:\Users\Rayet Rahman\Downloads\Compressed\Stock DEMo\shopManagementSystem (Final V2)\ShowManagementProject\obj\Debug\ShockManagementProject.Report.resources
+C:\Users\Rayet Rahman\Downloads\Compressed\Stock DEMo\shopManagementSystem (Final V2)\ShowManagementProject\obj\Debug\ShockManagementProject.SearchAndViewWf.resources
+C:\Users\Rayet Rahman\Downloads\Compressed\Stock DEMo\shopManagementSystem (Final V2)\ShowManagementProject\obj\Debug\ShockManagementProject.UI.SetupCategoryW.resources
+C:\Users\Rayet Rahman\Downloads\Compressed\Stock DEMo\shopManagementSystem (Final V2)\ShowManagementProject\obj\Debug\ShockManagementProject.UI.SetupCompanyW.resources
+C:\Users\Rayet Rahman\Downloads\Compressed\Stock DEMo\shopManagementSystem (Final V2)\ShowManagementProject\obj\Debug\ShockManagementProject.UI.SetupItemW.resources
+C:\Users\Rayet Rahman\Downloads\Compressed\Stock DEMo\shopManagementSystem (Final V2)\ShowManagementProject\obj\Debug\ShockManagementProject.UI.StockInW.resources
+C:\Users\Rayet Rahman\Downloads\Compressed\Stock DEMo\shopManagementSystem (Final V2)\ShowManagementProject\obj\Debug\ShockManagementProject.StockOutwf.resources
+C:\Users\Rayet Rahman\Downloads\Compressed\Stock DEMo\shopManagementSystem (Final V2)\ShowManagementProject\obj\Debug\StockManagementProject.csproj.GenerateResource.Cache
+C:\Users\Rayet Rahman\Downloads\Compressed\Stock DEMo\shopManagementSystem (Final V2)\ShowManagementProject\obj\Debug\ShowManagementProject.exe
+C:\Users\Rayet Rahman\Downloads\Compressed\Stock DEMo\shopManagementSystem (Final V2)\ShowManagementProject\obj\Debug\ShowManagementProject.pdb
+C:\Users\Rayet Rahman\Downloads\Compressed\Stock DEMo\shopManagementSystem (Final V2)\ShowManagementProject\obj\Debug\StockManagementProject.csprojResolveAssemblyReference.cache
+E:\Rayet\C#\BITM\Project 1\FINAL\ShowManagementProject\bin\Debug\ShowManagementProject.exe.config
+E:\Rayet\C#\BITM\Project 1\FINAL\ShowManagementProject\obj\Debug\ShowManagementProject.exe
+E:\Rayet\C#\BITM\Project 1\FINAL\ShowManagementProject\obj\Debug\ShowManagementProject.pdb
+E:\Rayet\C#\BITM\Project 1\FINAL\ShowManagementProject\bin\Debug\ShowManagementProject.exe
+E:\Rayet\C#\BITM\Project 1\FINAL\ShowManagementProject\bin\Debug\ShowManagementProject.pdb
+E:\Rayet\C#\BITM\Project 1\FINAL\ShowManagementProject\obj\Debug\StockManagementProject.csprojResolveAssemblyReference.cache
+E:\Rayet\C#\BITM\Project 1\FINAL\ShowManagementProject\obj\Debug\ShockManagementProject.login.resources
+E:\Rayet\C#\BITM\Project 1\FINAL\ShowManagementProject\obj\Debug\ShockManagementProject.Main.resources
+E:\Rayet\C#\BITM\Project 1\FINAL\ShowManagementProject\obj\Debug\ShowManagementProject.Properties.Resources.resources
+E:\Rayet\C#\BITM\Project 1\FINAL\ShowManagementProject\obj\Debug\ShockManagementProject.Report.resources
+E:\Rayet\C#\BITM\Project 1\FINAL\ShowManagementProject\obj\Debug\ShockManagementProject.SearchAndViewWf.resources
+E:\Rayet\C#\BITM\Project 1\FINAL\ShowManagementProject\obj\Debug\ShockManagementProject.UI.SetupCategoryW.resources
+E:\Rayet\C#\BITM\Project 1\FINAL\ShowManagementProject\obj\Debug\ShockManagementProject.UI.SetupCompanyW.resources
+E:\Rayet\C#\BITM\Project 1\FINAL\ShowManagementProject\obj\Debug\ShockManagementProject.UI.SetupItemW.resources
+E:\Rayet\C#\BITM\Project 1\FINAL\ShowManagementProject\obj\Debug\ShockManagementProject.UI.StockInW.resources
+E:\Rayet\C#\BITM\Project 1\FINAL\ShowManagementProject\obj\Debug\ShockManagementProject.StockOutwf.resources
+E:\Rayet\C#\BITM\Project 1\FINAL\ShowManagementProject\obj\Debug\StockManagementProject.csproj.GenerateResource.Cache
